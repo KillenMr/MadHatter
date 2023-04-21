@@ -11,3 +11,5 @@ Vue 2:
 https://admin.ifbcdev2.k5.bigtree.tech/#/user/login
 账号：superdsph
 密码：rccb1234
+
+https://we.tl/t-PGIFMqrtBE
